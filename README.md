@@ -2,7 +2,7 @@
 
 This gem provides Ruby bindings for Selenium.
 
-It's a fork from [selenium-webdriver 4.11.0 gem](https://rubygems.org/gems/selenium-webdriver/versions/4.11.0) updated to allow ruby 2.7. This update may not be stable, it's a temporary solution to use the new Selenium Manager that supports Chrome versions above 115.
+It's a fork from [selenium-webdriver 4.11.0 gem](https://rubygems.org/gems/selenium-webdriver/versions/4.11.0) updated to allow ruby 2.7. This update may not be stable, it's a temporary solution to use the new Selenium Manager that supports Chrome versions above 115 in applications that have not yet updated ruby to version 3.
 
 # Selenium Webdriver
 
