@@ -1,3 +1,5 @@
+This is a fork from [selenium-webdriver 4.26.0 gem](https://rubygems.org/gems/selenium-webdriver/versions/4.26.0) updated to allow ruby 2.7. This update may not be stable, it's a temporary solution to use the new Selenium Manager that supports Chrome versions above 115 in applications that have not yet updated ruby to version 3.
+
 # selenium-webdriver
 
 This gem provides Ruby bindings for Selenium and supports MRI >= 3.0.
